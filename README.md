@@ -1,5 +1,7 @@
-### Diego Frias
+Hi! I'm Diego, and I love making productivity tools!
 
-I make tools for Vim and am currently working on studying compilers and interpreters so I can build my own using Rust!
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzfrias&theme=github_dark&custom_title=5%20Most%20Used%20Languages)
+Here are some of the things I'm currently interested in and working on:
+- Rust on the frontend with WASM
+- Compilers/interpreters
+- Text-based browsers
+- Cultivating my ever-growing addiction to my dotfiles
